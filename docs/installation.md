@@ -81,7 +81,7 @@ Configuration steps included:
 - Creating the initial administrative account
 - Connecting the application to the MariaDB backend
 
-![Web-Based Installer](../install-osticket/.png)
+![Web-Based Installer](../screenshots/install-osticket/.png)
 
 Installer execution was monitored using Apache error logs to diagnose and resolve runtime issues.
 
