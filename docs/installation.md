@@ -107,6 +107,8 @@ The deployment was validated through functional testing:
 - Successful creation and resolution of test tickets
 - Verification of application stability across service restarts
 
+![Validation](../screenshots/install-final.png)
+
 Successful validation confirmed the system was ready for operational use.
 
 ---
