@@ -132,6 +132,8 @@ The following screenshots demonstrate secure LDAPS integration and successful Ac
 
 - Successful AD-authenticated user and agent logins
 
+![Supporting Screenshits](../screenshots/all-users-osticket.png)
+
 ## Common Failure Scenarios
 
 | Issue | Likely Cause |
