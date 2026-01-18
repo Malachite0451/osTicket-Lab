@@ -39,7 +39,7 @@ Common patterns:
 - **AD Domain:** `lab.local`
 - **Domain Controller:** `dc01.lab.local`
 - **DC IP:** `192.168.56.103`
-- **osTicket Server:** `osticket01.lab.local` (recommended naming)
+- **osTicket Server:** `osticket01.lab.local`
 - **Service Account:** `svc_osticket@lab.local`
 - **Authentication URI:** `ldaps://dc01.lab.local:636`
 
