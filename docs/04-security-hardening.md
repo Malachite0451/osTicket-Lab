@@ -30,6 +30,8 @@ This lab simulates an **internal-only corporate helpdesk**. The following assump
 - Certificate trust is explicitly configured on the osTicket server
 - Authentication failures are logged at both the application and directory level
 
+![LDAP over SSL (LDAPS)](../screenshots/LDAP-configured.png)
+
 **Rationale:**  
 Credentials must never traverse the network in cleartext, even on internal segments.
 
@@ -53,6 +55,8 @@ Service accounts represent a high-value target. Limiting scope reduces blast rad
 - All staff authentication is enforced via Active Directory
 - Client (end-user) authentication is disabled
 - No fallback local administrator accounts exist
+
+![Authentication Policy](../screenshots/security-hardening.png)
 
 **Rationale:**  
 Identity must be centralized. Bypassing AD bypasses audit and policy enforcement.
