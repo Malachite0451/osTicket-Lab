@@ -125,10 +125,6 @@ The following screenshots demonstrate secure LDAPS integration and successful Ac
 - Internal CA trust configuration
 
 ![Supporting Screenshits](../screenshots/CA-trust.png)
-  
-- osTicket LDAP configuration
-
-![Supporting Screenshits](../screenshots/LDAP-configured.png)
 
 - Successful AD-authenticated user and agent logins
 
