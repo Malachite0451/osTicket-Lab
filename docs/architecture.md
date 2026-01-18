@@ -31,6 +31,8 @@ Common patterns:
   - Used for AD and osTicket communication
   - Example DC IP: `192.168.56.103`
 
+![Network Layout](../screenshots/arch-virtualbox-networking.png)
+
 - **NAT Adapter** (optional outbound internet access)
   - Used for package updates and downloads
   - Not required for internal authentication flows
