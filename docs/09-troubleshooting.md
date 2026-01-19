@@ -197,14 +197,6 @@ Not everyone can:
 
 This troubleshooting framework demonstrates **operational maturity**, not just technical familiarity.
 
-## Future Enhancements
-
-Planned improvements include:
-- Formal incident postmortem templates
-- Automated health checks
-- Monitoring-driven alerts
-- NOC-facing incident dashboards
-
 ## Summary
 
 Problems are expected.
